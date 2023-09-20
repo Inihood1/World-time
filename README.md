@@ -1,6 +1,4 @@
-Creating a GitHub README for a Flutter app that displays times in different countries involves explaining the app's features, how to set it up, and how to use it. Here's a sample README.md file:
 
-```markdown
 # World Time Flutter App
 
 Welcome to the World Time Flutter App! This mobile application allows you to view the current time in various countries and cities around the world.
@@ -22,7 +20,7 @@ To get started with the World Time app, follow these steps:
 
 ```bash
 git clone https://github.com/your-username/world-time-flutter.git
-```
+
 
 2. Open the project in your preferred Flutter development environment (e.g., Android Studio, Visual Studio Code).
 
